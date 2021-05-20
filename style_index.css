@@ -1,0 +1,46 @@
+body {
+	background-image: url("bg.png");
+	background-size: cover;
+}
+
+.login {
+	border: 2px outset gray;
+	width: 500px;
+	height: 300px;
+	background-color: pink;
+}
+
+.registration {
+	border: 2px outset gray;
+	width: 500px;
+	height: 350px;
+	background-color: pink;
+}
+
+.result {
+    margin: 50px auto;
+    width: 350px;
+    padding: 30px 25px;
+    background: pink;
+}
+
+.dash {
+	border: 2px outset gray;
+	width: 500px;
+	height: 350px;
+	background-color: pink;
+}
+
+.welcome {
+	border: 2px outset gray;
+	width: 500px;
+	height: 1000px;
+	background-color: pink;
+}
+
+.reset {
+	border: 2px outset gray;
+	width: 500px;
+	height: 400px;
+	background-color: pink;
+}
